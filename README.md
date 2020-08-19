@@ -1,2 +1,11 @@
 # cam86
-Build an CCD camera for astrophotography
+My project to build the amazing cam86 CCD camera for astrophotography. 
+
+## Online resources
+
+cam86 is the last in a series of CCD cameras developed by collaborators coordinated by members of the Kiev Astronomical Club in the Ukraine. 
+
+* [CloudyNights forum](https://www.cloudynights.com/topic/497530-diy-astro-ccd-16-bit-color-6mpx-camera/) -- a lengthy forum in English
+* [Kiev Astronomy Club forum](http://www.astroclub.kiev.ua/forum/index.php?topic=28929.0) -- original developers forum in the Ukraine 
+* [Firmware repo by Luka Pravica](https://github.com/axsdenied/cam86_fw) -- with lots of references to online resources
+
