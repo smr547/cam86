@@ -1,5 +1,6 @@
 # cam86
-My project to build the amazing cam86 CCD camera for astrophotography. 
+Something I've been wanting to do for years! -- Build a CCD camera for astrophotography. 
+The cam86, originating from a group of keen Ukrainian amateurs looks like the perfect challenge. 
 
 ![The cam86 CCD camera](https://stargazerslounge.com/uploads/monthly_2019_02/1595828296_ScreenShot2019-02-23at11_20_20PM.jpg.4a7e144ca60858cb34bd007e59f116e9.jpg "Photo 1")
 
