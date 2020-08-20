@@ -8,7 +8,9 @@ I plan to use [OSH Park](https://oshpark.com) to supply the PCB using a supplied
 
 I'd also like to find [KiCad](https://kicad-pcb.org/) source file so that the PCB can be modified if necessary
 
+## CCDs vs CMOS detectors
 
+* [An intersting discussion](https://www.dpreview.com/forums/post/51666246)
 
 ## Online resources
 
