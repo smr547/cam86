@@ -20,3 +20,6 @@ cam86 is the last in a series of CCD cameras developed by collaborators coordina
 * [Kiev Astronomy Club forum](http://www.astroclub.kiev.ua/forum/index.php?topic=28929.0) -- original developers forum in the Ukraine 
 * [Firmware repo by Luka Pravica](https://github.com/axsdenied/cam86_fw) -- with lots of references to online resources
 
+[ASCOM](https://ascom-standards.org/Developer/Alpaca.htm) -- a set of "standards" for astronomical devices operating in a 
+Windows environment. Thanks to RESTful and network technologies the ASCOM "standard"
+become relevant to the Open Source community
