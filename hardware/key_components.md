@@ -11,6 +11,9 @@ is said to be similiar.
  * [some discussion here](https://www.cloudynights.com/topic/497530-diy-astro-ccd-16-bit-color-6mpx-camera/page-7)
 ## ADC
 * Analog Devices [AD9826](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9826.pdf) 16 bit analog to digital coverter
+* Only the green channel is used, red and blue are unused
+* Operated in 1-channel CDS mode as described in page 14 of 
+the [AD9826 spec](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9826.pdf)
 ## Vertical Clock driver
 * Sony [CXD1267](http://pdf.dzsc.com/CXD/CXD1267AN.pdf)
 ## Horizontal driver
