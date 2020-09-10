@@ -1,12 +1,13 @@
 # cam86 Hardware
 
+## Design
+* see [key components](key_components.md)
+
 ## PCB 
 
-The current challenge is to get a PCB to build the camera
-
-I plan to use [OSH Park](https://oshpark.com) to supply the PCB using a supplied Gerber zip file (see below)
-
-I'd also like to find [KiCad](https://kicad-pcb.org/) source file so that the PCB can be modified if necessary
+* The current challenge is to get a PCB to build the camera
+* I plan to use [OSH Park](https://oshpark.com) to supply the PCB using a supplied Gerber zip file (see below)
+* I'd also like to find [KiCad](https://kicad-pcb.org/) source file so that the PCB can be modified if necessary
 
 ## CCDs vs CMOS detectors
 
