@@ -26,5 +26,9 @@ the [AD9826 spec](https://www.analog.com/media/en/technical-documentation/data-s
 [technical note](https://www.ftdichip.com/Support/Documents/TechnicalNotes/TN_167_FIFO_Basics.pdf)
 ## Microprocessor
 * [ATMeg328](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
+## Cooling
+* Peltier module 
+* MOSFET driver
+* [DS18S20](https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf) temperature sensor
 ## Miscellaneous logic
 * Quad XOR gates [74H86](74HC86.PDF)
