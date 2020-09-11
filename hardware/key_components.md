@@ -26,6 +26,8 @@ the [AD9826 spec](https://www.analog.com/media/en/technical-documentation/data-s
 [technical note](https://www.ftdichip.com/Support/Documents/TechnicalNotes/TN_167_FIFO_Basics.pdf)
 ## Microprocessor
 * [ATMeg328](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
+* See this [great article on programming the ATmeg328](https://davecturner.github.io/2019/02/23/programming-avr-microcontrollers.html)
+using In System Programming (ISP)
 ## Cooling
 * Peltier module 
 * MOSFET driver
