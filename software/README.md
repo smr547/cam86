@@ -6,7 +6,8 @@ This page discusses the software elements of the Camera
 
 * See this [great article on programming the ATmeg328](https://davecturner.github.io/2019/02/23/programming-avr-microcontrollers.html)
 using In System Programming (ISP)
-* The above article also discusses the use of the AVR toolchain to compile firmware on a Raspberry Pi
+* The above article also discusses the use of the [AVR toolchain](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers) 
+to compile firmware on a Raspberry Pi
 * Source code for the CAM86 firmware can be found [here](https://github.com/axsdenied/cam86_fw)
 * Fuses ??
 
