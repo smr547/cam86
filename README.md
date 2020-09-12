@@ -15,9 +15,10 @@ cam86 is the last in a series of CCD cameras developed by collaborators coordina
 
 * [webastro forum](https://www.webastro.net/forums/topic/148427-camera-ccd-fabriqu%C3%A9-maison-cam86/) -- currently very active forum -- in French 
 * [astroccd homemade CCD camera group](http://astroccd.org/2016/10/cam86/) -- last posting late 2016
-* [CloudyNights forum](https://www.cloudynights.com/topic/497530-diy-astro-ccd-16-bit-color-6mpx-camera/) -- a lengthy forum in English
-* [StarGazers Lounge forum](https://stargazerslounge.com/topic/304166-diy-osc-ccd-cam86/) -- English forum
-* [Kiev Astronomy Club forum](http://www.astroclub.kiev.ua/forum/index.php?topic=28929.0) -- original developers forum in the Ukraine 
+* [CloudyNights forum](https://www.cloudynights.com/topic/497530-diy-astro-ccd-16-bit-color-6mpx-camera/) -- a lengthy forum in English -- last post July 2020
+* [StarGazers Lounge forum](https://stargazerslounge.com/topic/304166-diy-osc-ccd-cam86/) -- English forum -- some great pics -- last Post Jan 2019
+* [Kiev Astronomy Club forum](http://www.astroclub.kiev.ua/forum/index.php?topic=28929.0) -- original developers forum in the Ukraine -- currently active
+* [Australian forum](http://www.iceinspace.com.au/forum/showthread.php?t=146493) -- last post 2019
 * [Firmware repo by Luka Pravica](https://github.com/axsdenied/cam86_fw) -- with lots of references to online resources
 
 [ASCOM](https://ascom-standards.org/Developer/Alpaca.htm) -- a set of "standards" for astronomical devices operating in a 
