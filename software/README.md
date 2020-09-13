@@ -10,6 +10,7 @@ using In System Programming (ISP)
 to compile firmware on a Raspberry Pi
 * Source code for the CAM86 firmware can be found [here](https://github.com/axsdenied/cam86_fw)
 * Fuses ??
+* See [compiling the firmware](./compiling_the_firmware.md)
 
 ## EEProm programming
 
