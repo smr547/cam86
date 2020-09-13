@@ -20,6 +20,7 @@ cam86 is the last in a series of CCD cameras developed by collaborators coordina
 * [Kiev Astronomy Club forum](http://www.astroclub.kiev.ua/forum/index.php?topic=28929.0) -- original developers forum in the Ukraine -- currently active
 * [Australian forum](http://www.iceinspace.com.au/forum/showthread.php?t=146493) -- last post 2019
 * [Firmware repo by Luka Pravica](https://github.com/axsdenied/cam86_fw) -- with lots of references to online resources
+* [User manual from QYH project](http://www.gamaelectronics.com.au/files/QHY-8%20Users%20manual.pdf) -- uses same sensor as CAM86
 
 [ASCOM](https://ascom-standards.org/Developer/Alpaca.htm) -- a set of "standards" for astronomical devices operating in a 
 Windows environment. Thanks to RESTful and other network technologies the ASCOM "standard"
