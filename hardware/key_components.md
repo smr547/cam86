@@ -34,3 +34,6 @@ using In System Programming (ISP)
 * [DS18S20](https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf) temperature sensor
 ## Miscellaneous logic
 * Quad XOR gates [74H86](74HC86.PDF)
+* [Heatsink and cooling fan](https://www.amazon.com/dp/B009VCAJ7W?tag=noctua0b-20) -- a little over the top perhaps?
+* [EOS to T2 adapter](https://www.bintel.com.au/product/zwo-new-eos-t2/?v=322b26af01d5) -- to fit Canon lens to the CCD camera
+* [Tilter](https://www.bintel.com.au/product/zwo-t2-tilt-adjuster/?v=322b26af01d5) to adjust CCD orthongonality with image plane of telescope
