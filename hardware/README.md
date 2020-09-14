@@ -1,7 +1,10 @@
 # cam86 Hardware
 
 ## Design
+* [Circuit schematic](https://drive.google.com/file/d/0B33NUzWf6odbX0hPSF9yLTQtb0E/view)
 * see [key components](key_components.md)
+* The designers publish [Gerber Files](http://astroccd.org/wp-content/uploads/2016/09/Gerber-CAM86.zip) (for the production of PCBs), however
+* I've been unable to find the underlying CAD files that would encourage "home grown" modifications
 
 ## PCB 
 
