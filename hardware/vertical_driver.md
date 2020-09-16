@@ -10,3 +10,13 @@ circuits for the vertical shift register.
 ![CXD1267 block diagram](cxd1267_blk_diagram.png)
 ![CXD1267 truth table](cxd1267_truth_table.png)
 ![CXD1267 in camera](cxd1267_in_camera.png)
+
+
+## Driver voltages
+
+
+| Symbol | Volts         | Pin  |
+| -------|:-------------:| -----:|
+| VH     | 15V | 2 |
+| VM      | 0V     |   13 |
+| VL | -7V      |   16 |
