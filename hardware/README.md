@@ -1,7 +1,7 @@
 # cam86 Hardware
 
 ## Design
-* [Circuit schematic](https://drive.google.com/file/d/0B33NUzWf6odbX0hPSF9yLTQtb0E/view)
+* [Circuit schematic](CAM86-sch.pdf)
 * see [key components](key_components.md)
 
 ## PCB 
