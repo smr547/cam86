@@ -18,6 +18,7 @@ the [AD9826 spec](https://www.analog.com/media/en/technical-documentation/data-s
 * for more information see the [description of ADC operation](adc_operation.md)
 ## Vertical Clock driver
 * Sony [CXD1267](http://pdf.dzsc.com/CXD/CXD1267AN.pdf)
+* See [vertical driver operation](vertical_driver.md) for a description of how the chip is used
 ## Horizontal driver
 * [EL7457](https://www.renesas.com/us/en/products/amplifiers-buffers/all-amplifiers/powerfet-ccd-drivers/device/EL7457.html)
 ## USB interface
