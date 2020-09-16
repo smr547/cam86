@@ -15,6 +15,7 @@ is said to be similiar.
 * Operated in 1-channel CDS mode as described in page 14 of 
 the [AD9826 spec](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9826.pdf)
 * CCD video output is amplified via a [AD811 operational amplifier](https://www.analog.com/media/en/technical-documentation/data-sheets/AD811.pdf)
+* for more information see the [description of ADC operation](adc_operation.md)
 ## Vertical Clock driver
 * Sony [CXD1267](http://pdf.dzsc.com/CXD/CXD1267AN.pdf)
 ## Horizontal driver
