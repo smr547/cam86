@@ -9,6 +9,7 @@
 is said to be similiar.
 * There has been a significant effort to reverse engineer the specs fo the ICX453AQ and I'll try to collate the findings here.
  * [some discussion here](https://www.cloudynights.com/topic/497530-diy-astro-ccd-16-bit-color-6mpx-camera/page-7)
+ * Ideal sensor size discussed in [this article](https://diffractionlimited.com/matching-camera-optics/)
 ## ADC
 * Analog Devices [AD9826](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9826.pdf) 16 bit analog to digital coverter
 * Only the green channel is used, red and blue are unused
