@@ -2,6 +2,13 @@
 
 A page devoted to miscellaneous design notes
 
+## USB communications
+
+The host computer communicated with CAM86 via the high speed USB port
+
+* Further R&D can be done using this [USB breakout board](https://www.dlpdesign.com/dlp2232h-ds-v11.pdf) based on the FT2232H USB controller chip
+* Supported by many [appication notes](https://www.ftdichip.com/Support/Documents/AppNotes.htm)
+
 ## Horizontal driver
 
 One aspect of the present CAM86 design is the bit-banging approach for generating the clocking for the horizontal shift register and the ADC clocks. 
