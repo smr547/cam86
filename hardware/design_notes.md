@@ -33,6 +33,10 @@ See also:
 
 * [Commercial clock driver cards](http://www.pulseinstruments.com/drivers/)
 
+## External crystal oscillator
+
+[Simple crystal oscillator design](https://www.youtube.com/watch?v=tb1-EF_F2Rk)
+
 ## Electronic shutter
 
 A high voltage pulse on the SUB pin is used to clear photo-electrons from the photodiodes immediately before the start of an exposure. Care must be taken
