@@ -25,3 +25,26 @@ cam86 is the last in a series of CCD cameras developed by collaborators coordina
 [ASCOM](https://ascom-standards.org/Developer/Alpaca.htm) -- a set of "standards" for astronomical devices operating in a 
 Windows environment. Thanks to RESTful and other network technologies the ASCOM "standard"
 may become more relevant to the Open Source community
+
+## Important update
+
+After reviewing the available documentation I've decided not to proceed with this build
+
+* The Ukrainian developers have moved onto a later design (CAM90)
+* Documentation for SONY CCD chip has not been released by the manufacturer
+
+Also, some design issue remain unaddressed in the CAM86
+
+* banding in images, 
+* noise from on board power supply, 
+* noise from Peltier switching, 
+* bitbang firmware, 
+* Delphi drivers
+
+I'll continue prototyping work towards building an imager based on the CAM87 or CAM90 design. 
+
+Thank you again to the marvelous people working on these project. Their generosity together with the knowledge and experience they have shared with the community
+remain invaluable. 
+no flow control in USB Asynchronouse FIFO data channel
+*
+* 
