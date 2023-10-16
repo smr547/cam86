@@ -8,7 +8,7 @@ This page discusses the software elements of the Camera
 using In System Programming (ISP)
 * The above article also discusses the use of the [AVR toolchain](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers) 
 to compile firmware on a Raspberry Pi
-* Source code for the CAM86 firmware can be found [here](https://github.com/axsdenied/cam86_fw)
+* Source code for the CAM86 firmware can be found [here](https://github.com/axsdenied/cam86_fw) and [also here](https://github.com/vakulenko/CAM8_software/tree/master)
 * Fuses ??
 * See [compiling the firmware](./compiling_the_firmware.md)
 
